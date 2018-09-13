@@ -33,7 +33,6 @@
  * Used an open source library called [Cosmos](https://github.com/evgenyneu/Cosmos) to create **Star Ratings**
    views to display the movie ratings.
  
- 
  ## Demo
   * **Demo Video:** [Youtube](https://www.youtube.com/watch?v=NcVGLr4Sb5I&feature=youtu.be)
  
