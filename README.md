@@ -1,5 +1,5 @@
 # Show Time
- A Simple Personalised movie details app that helps users to know everything about the Upcoming, New Releases,
+ Designed a simple Personalised movie details app that helps users to know everything about the Upcoming, New Releases,
  Popular movies etc. It allows users to check out what people are saying about a movie, or they can tell others
  about the movie. They can create their own list of favorite movies.
 
