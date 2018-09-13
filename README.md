@@ -21,6 +21,7 @@
  * Users can shortlist the movies that they like by adding them to their favorite list.
  * Users can make basic profile modifications.
  
+ 
 ## Technical Details
  * Used Google's Firebase Authentication for Secure User Authentication and User Registration.
  * Used Google's Firebase Database to save the data related to favorite movies, reviews, Like/Dislikes etc.
@@ -34,7 +35,8 @@
  * Used an open source library called [Cosmos](https://github.com/evgenyneu/Cosmos) to create **Star Ratings**
    views to display the movie ratings.
  
- ## Demo
+
+## Demo
   * **Demo Video:** [Youtube](https://www.youtube.com/watch?v=NcVGLr4Sb5I&feature=youtu.be)
  
  
