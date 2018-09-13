@@ -27,6 +27,7 @@
  * Used Firebase Storage to save the User's profile images.
  * The app is always in Sync, thanks to Google's real-time database which pushes updates whenever the 
    database is changed.
+ * Used **Decodable** Objects to parse and store the JSON data provided by the tmdb API.
  * Used **UITabBarController** to navigate between different Movie Lists.
  * Implemented Master/Details Flow Layout using **UINavigationController** to show List of movies and their
    detailed information pages.
